@@ -23,4 +23,5 @@ make
 ```
 # Run Solutions
 Replace `Problem Sets/Problem Set */student_func.cu` with `My Solutions/HW*/student_func.cu`.
+
 All solutions have passed through tests.
