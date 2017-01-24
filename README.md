@@ -1,7 +1,7 @@
 cs344
 =====
 
-Introduction to Parallel Programming class code
+Introduction to Parallel Programming class code (with my solutions)
 
 # Building on OS X
 
@@ -21,4 +21,6 @@ cd build
 cmake ..
 make
 ```
-
+# Run Solutions
+Replace `Problem Sets/Problem Set */student_func.cu` with `My Solutions/HW*/student_func.cu`.
+All solutions have passed through tests.
